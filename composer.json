@@ -1,0 +1,13 @@
+{
+    "name": "hei-dou/framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "postoor",
+            "email": "tungc8763-github@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
